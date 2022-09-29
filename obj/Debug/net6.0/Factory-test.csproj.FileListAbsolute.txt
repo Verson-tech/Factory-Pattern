@@ -1,0 +1,15 @@
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\bin\Debug\net6.0\Factory-test.exe
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\bin\Debug\net6.0\Factory-test.deps.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\bin\Debug\net6.0\Factory-test.runtimeconfig.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\bin\Debug\net6.0\Factory-test.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\bin\Debug\net6.0\Factory-test.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.AssemblyInfo.cs
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\refint\Factory-test.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\Factory-test.genruntimeconfig.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Factory-test\Factory-test\obj\Debug\net6.0\ref\Factory-test.dll
